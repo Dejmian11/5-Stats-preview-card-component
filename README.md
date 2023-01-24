@@ -20,7 +20,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-Rs98PcNqYM)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-Rs98PcNqYM)
 - Live Site URL: [Live](https://chic-sunburst-c3c956.netlify.app/)
 
 ## My process
