@@ -15,13 +15,13 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Screenshot
 
-![](https://github.com/Dejmian11/3-NFT-preview-card-component/blob/master/images/design/Screenshot%20-%20Frontend%20Mentor%20NFT%20preview%20card%20component.png)
+![](https://github.com/Dejmian11/5-Stats-preview-card-component/blob/master/images/design/Screenshot%20-%20Frontend%20Mentor%20Stats%20preview%20card%20component.png)
 
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-GQhJLwO9Nw)
-- Live Site URL: [Live](https://bright-toffee-a78af5.netlify.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-Rs98PcNqYM)
+- Live Site URL: [Live](https://chic-sunburst-c3c956.netlify.app/)
 
 ## My process
 
