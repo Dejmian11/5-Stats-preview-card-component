@@ -41,10 +41,9 @@
 	--fs-body: var(--fs-400);
 	--fs-heading-tertiary: var(--fs-600);
 
-  
-  @include respond(lg) {
-    --fs-heading-tertiary: var(--fs-700); 
-  }
+	@include respond(lg) {
+		--fs-heading-tertiary: var(--fs-700);
+	}
 
 	--fw-regular: 400;
 	--fw-bold: 700;
@@ -160,7 +159,6 @@ h3 {
 // BASE
 body {
 	display: grid;
-	place-content: center;
 
 	background-color: var(--clr-primary-200);
 	color: var(--clr-neutral-800);
@@ -168,6 +166,10 @@ body {
 	font-size: var(--fs-400);
 	font-weight: var(--fw-regular);
 	line-height: 1.7;
+
+	@include respond(lg) {
+		place-content: center;
+	}
 }
 
 // TYPOGRAPHY
